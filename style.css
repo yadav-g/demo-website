@@ -1,0 +1,13 @@
+h1{
+    color: beige;
+    font-size: 14;
+}
+h2{
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: aqua;
+    font-weight: 300;
+}
