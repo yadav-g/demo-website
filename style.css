@@ -3,11 +3,19 @@ h1{
     font-size: 14;
 }
 h2{
+<<<<<<< HEAD
     color: blue;
+=======
+    color: rgb(0, 255, 149);
+>>>>>>> First commit
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 p{
+<<<<<<< HEAD
     color: aqua;
+=======
+    color: rgb(39, 0, 7);
+>>>>>>> First commit
     font-weight: 300;
 }
